@@ -1,8 +1,14 @@
 import React from 'react';
+import Stopwatch from 'app/stopwatch';
 
 class Application extends React.Component {
+
+  constructor() {
+    super();
+  }
+
   render() {
-    return <h1>{"Hello world!"}</h1>;
+      return <Stopwatch/>;
   }
 }
 
