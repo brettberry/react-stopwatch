@@ -2,6 +2,7 @@
   "name": "react-boilerplate",
   "version": "1.0.0",
   "description": "Biolerplate ES7 app with React",
+  "repository": "https://github.com/jonbrennecke/react-boilerplate",
   "main": "gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
