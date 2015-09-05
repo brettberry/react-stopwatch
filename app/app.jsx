@@ -1,10 +1,8 @@
 import React from 'react';
-import Button from 'app/Button';
-
 
 class Application extends React.Component {
   render() {
-    return <Button text="Hello World!"/>;
+    return <h1>{"Hello world!"}</h1>;
   }
 }
 
